@@ -1,9 +1,9 @@
-import classes from './UserProfile.module.css';
+import classes from "./UserProfile.module.css";
 
 const UserProfile = () => {
   return (
     <main className={classes.profile}>
-      <h2>My User Profile</h2>
+      <h2>Welcome to Redux Authenication</h2>
     </main>
   );
 };
